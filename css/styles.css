@@ -211,12 +211,13 @@ td {
     line-height: 20px;
   }
 
-  /*  70% {
+  70% {
     width: 35px;
     height: 35px;
     line-height: 35px;
   }
-  100% {
+
+  /*100% {
     width: 25px;
     height: 25px;
     line-height: 25px;
