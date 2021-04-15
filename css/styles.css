@@ -158,11 +158,12 @@ table::before, table::after {
   width: 60px;
 }
 
-/*table::before {
+table::before {
   left: calc(33% - 30px);
   background-color: rgba(0, 190, 164, 0.6);
 }
-table::after {
+
+/*table::after {
   right: calc(33% - 30px);
   background-color: rgba(255, 176, 61, 0.6);
 }
