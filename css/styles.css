@@ -194,11 +194,11 @@ td {
   color: #FFF;
 }
 
-/*
 .update {
   animation: new-message 0.3s;
 }
 
+/*
 @keyframes new-message {
   0% {
     width: 25px;
