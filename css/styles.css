@@ -107,8 +107,6 @@
   transition-delay: 0.4s;
 }
 
-/*
-
 .table-container {
   position: relative;
   margin: 20px auto 0;
@@ -117,6 +115,7 @@
   transform: rotate(-20deg);
 }
 
+/*
 .horizontal-lines {
   position: absolute;
   top: 0;
