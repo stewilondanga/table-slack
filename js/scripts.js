@@ -7,10 +7,10 @@ var navigate = (function() {
   });
 })();
 
-/*const cells = document.querySelectorAll('td');
+const cells = document.querySelectorAll('td');
 let timeTill;
 
-setNewMessageTimer();
+/*setNewMessageTimer();
 
 // Need to add some messages to the different cells
 cells.forEach((cell, index) => {
