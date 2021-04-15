@@ -181,7 +181,6 @@ td {
   display: none;
 }
 
-/*
 .new-messages {
   position: absolute;
   top: 25%;
@@ -195,6 +194,7 @@ td {
   color: #FFF;
 }
 
+/*
 .update {
   animation: new-message 0.3s;
 }
