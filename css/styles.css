@@ -177,11 +177,11 @@ td {
   text-align: center;
 }
 
-/*
 .hidden {
   display: none;
 }
 
+/*
 .new-messages {
   position: absolute;
   top: 25%;
