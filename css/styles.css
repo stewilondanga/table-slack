@@ -115,7 +115,6 @@
   transform: rotate(-20deg);
 }
 
-/*
 .horizontal-lines {
   position: absolute;
   top: 0;
@@ -123,7 +122,8 @@
   left: 0;
   right: 0;
 }
-.horizontal-lines::before, .horizontal-lines::after {
+
+/*.horizontal-lines::before, .horizontal-lines::after {
   content: "";
   display: block;
   position: absolute;
