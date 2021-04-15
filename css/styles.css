@@ -133,11 +133,12 @@
   height: 60px;
 }
 
-/*.horizontal-lines::before {
+.horizontal-lines::before {
   top: calc(34% - 30px);
   background-color: rgba(0, 108, 255, 0.6);
 }
-.horizontal-lines::after {
+
+/*.horizontal-lines::after {
   bottom: calc(33% - 30px);
   background-color: rgba(237, 27, 98, 0.86);
 }
