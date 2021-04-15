@@ -11,7 +11,7 @@ const cells = document.querySelectorAll('td');
 let timeTill;
 
 setNewMessageTimer();
-/*
+
 // Need to add some messages to the different cells
 cells.forEach((cell, index) => {
   var numNewMessages = Math.floor(Math.random() * 4);
@@ -20,7 +20,7 @@ cells.forEach((cell, index) => {
     <span class="${classes}">${numNewMessages}</span>
   `;
 });
-
+/*
 function setNewMessageTimer () {
   // Generate a random time when the new message appears
   timeTill = Math.floor(Math.random() * 10000);
