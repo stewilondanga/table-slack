@@ -198,9 +198,8 @@ td {
   animation: new-message 0.3s;
 }
 
-/*
 @keyframes new-message {
-  0% {
+  /*  0% {
     width: 25px;
     height: 25px;
     line-height: 25px;
