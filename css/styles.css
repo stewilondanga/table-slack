@@ -143,12 +143,12 @@
   background-color: rgba(237, 27, 98, 0.86);
 }
 
-/*
 table {
   width: 100%;
   border-collapse: collapse;
 }
 
+/*
 table::before, table::after {
   content: "";
   display: block;
