@@ -10,8 +10,8 @@ var navigate = (function() {
 const cells = document.querySelectorAll('td');
 let timeTill;
 
-/*setNewMessageTimer();
-
+setNewMessageTimer();
+/*
 // Need to add some messages to the different cells
 cells.forEach((cell, index) => {
   var numNewMessages = Math.floor(Math.random() * 4);
