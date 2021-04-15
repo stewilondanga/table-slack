@@ -168,7 +168,6 @@ table::after {
   background-color: rgba(255, 176, 61, 0.6);
 }
 
-/*
 td {
   position: relative;
   padding-top: 5px;
@@ -178,6 +177,7 @@ td {
   text-align: center;
 }
 
+/*
 .hidden {
   display: none;
 }
